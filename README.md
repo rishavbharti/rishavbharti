@@ -16,6 +16,6 @@ My forte lies in frontend engineering and I'm adept at architecting and developi
 
 #### 👀 Where to find me?
 * [LinkedIn](https://linkedin.com/in/rishavbharti) - to connect one-on-one and know more about my experience.
-* [Medium Blog](https://rishavbharti.medium.com/) - for guides and articles through my experiences.
+* [Medium](https://rishavbharti.medium.com/) - for guides and articles through my experiences.
 * [Codepen](https://codepen.io/rishavbharti_) - to find some of my experiments.
 * [Twitter](https://twitter.com/rishavbharti_) - to read my occasional thoughts.
