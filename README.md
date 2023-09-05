@@ -4,7 +4,7 @@ My forte lies in frontend engineering and I'm adept at architecting and developi
 
 * **Current Job**: Building [Spinny](https://spinny.com/).
 * **I Speak:** English, Hindi, TypeScript, JavaScript and CSS.
-* **Talk to me about:** React / Next.js, Design Systems, Frontend Engineering, Product Development, and Startups.
+* **Talk to me about:** React / Next.js and its ecosystem, Design Systems, Frontend Engineering, Product Development, and Startups.
 
 #### 💻 Work Experience
 * Software Engineer - Frontend @ [Spinny](https://spinny.com/) (Aug 2022 - Present)
