@@ -19,3 +19,8 @@ My forte lies in frontend engineering and I'm adept at architecting and developi
 * [Medium](https://rishavbharti.medium.com/) - for guides and articles through my experiences.
 * [Codepen](https://codepen.io/rishavbharti_) - to find some of my experiments.
 * [Twitter](https://twitter.com/rishavbharti_) - to read my occasional thoughts.
+
+<br />
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=rishavbharti&style=for-the-badge&color=4682B4">
+</a>
