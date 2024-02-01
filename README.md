@@ -7,7 +7,7 @@ My forte lies in frontend engineering and I'm adept at architecting and developi
 * **Talk to me about:** React / Next.js and its ecosystem, Design Systems, Frontend Engineering, Product Development, and Startups.
 
 #### 💻 Work Experience
-* Software Engineer - Frontend @ [Spinny](https://spinny.com/) (Aug 2022 - Present)
+* Software Engineer II - Frontend @ [Spinny](https://spinny.com/) (Aug 2022 - Present)
 * Software Engineer - Frontend @ [revidd](https://revidd.com/) (Dec 2020 - July 2022)
 
 #### 🛠️ Relevant Projects
