@@ -11,7 +11,7 @@ My forte lies in frontend engineering and I'm adept at architecting and developi
 * Software Engineer - Frontend @ [revidd](https://revidd.com/) (Dec 2020 - July 2022)
 
 #### 🛠️ Relevant Projects
-* [xanwas 🚀](https://xanwas.vercel.app/) (June 2023 - Present) - A no-code platform for building websites using an intuitive drag & drop interface.
+* [xanwas 🚀](https://xanwas.in/) (June 2023 - Present) - A no-code platform for building websites using an intuitive drag & drop interface.
 * [learnlit](https://github.com/rishavbharti/learnlit-frontend) (Oct 2021 - July 2022) - An online learning and teaching marketplace.
 
 #### 👀 Where to find me?
