@@ -2,7 +2,7 @@
 Hi, I am a Software Engineer, and I enjoy building things for the web. 
 My forte lies in frontend engineering and I'm adept at architecting and developing solutions from the ground-up, with a keen sense of product development. I also have some experience in backend development in Node.js through personal projects. 
 
-* **Current Job**: Building [Spinny](https://spinny.com/).
+* **Current Job**: Building ...
 * **I Speak:** English, Hindi, TypeScript, JavaScript and CSS.
 * **Talk to me about:** React / Next.js and its ecosystem, Design Systems, Frontend Engineering, Product Development, and Startups.
 
