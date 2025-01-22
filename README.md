@@ -2,11 +2,11 @@
 Hi, I am a Software Engineer, and I enjoy building things for the web. 
 My forte lies in frontend engineering and I'm adept at architecting and developing solutions from the ground-up, with a keen sense of product development. I also have some experience in backend development in Node.js through personal projects. 
 
-* **Current Job**: Building ...
-* **I Speak:** English, Hindi, TypeScript, JavaScript and CSS.
+* **Current Job**: Building [Postman](https://www.postman.com/)
 * **Talk to me about:** React / Next.js and its ecosystem, Design Systems, Frontend Tooling & Infra, Product Development, and Startups.
 
 #### 💻 Work Experience
+* Software Engineer II @ [Postman](https://postman.com/) (Nov 2024 - Present)
 * Software Engineer II - Frontend @ [Spinny](https://spinny.com/) (Aug 2022 - Nov 2024)
 * Software Engineer - Frontend @ [revidd](https://revidd.com/) (Dec 2020 - July 2022)
 
